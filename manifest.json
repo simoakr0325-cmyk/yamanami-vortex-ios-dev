@@ -1,0 +1,9 @@
+{
+  "id": "yamanami-vortex",
+  "name": "Yamanami Vortex",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "造園・外構CAD。敷地を描き、石・植栽・地形を扱い、施主に季節の庭を見せ、見積と手入れ暦まで出す。",
+  "author": "山波創苑",
+  "isDesktopOnly": false
+}
